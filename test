@@ -1,0 +1,34 @@
+//create user 
+
+// movie.json :- certification 
+//episode:- releasedate 
+// searching by name 
+// change date in episode
+
+//certification domain & controller ~~
+
+
+
+admin
+subscription plan and references
+purchase a plan
+
+video and episode title to database and to local data and 
+add controllers related to that
+
+populate plan and hisotry and wishlist
+
+mediatype = movies and series
+
+
+user logout 
+
+production admin 
+netflix admin
+user image
+user plan expiry date
+user contact number
+Actor page(optinal)
+
+
+user authentication via email
